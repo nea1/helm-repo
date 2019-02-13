@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  slack-nats:
+  - apiVersion: v1
+    created: 2019-02-13T14:50:37.323138Z
+    description: A Helm chart for Kubernetes
+    digest: 307c409cfedb67dfe49c8c70a7d4587ffde9c5c7156f525e3261334d079481e8
+    name: slack-nats
+    urls:
+    - slack-nats-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2019-02-13T14:50:37.32238Z
+    description: A Helm chart for Kubernetes
+    digest: db6f05b45af8d7fb80bf4bf5d49ea7aaad163344988980c77bda2d4521009f33
+    name: slack-nats
+    urls:
+    - slack-nats-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-02-13T14:50:37.321523Z
